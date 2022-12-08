@@ -126,8 +126,8 @@ Link to a specific part of the page:
 [Go To TOP](#TOP)
 Hotkey:
 
-<kbd>F</kbd>
-<kbd>F</kbd>
+<kbd>⌘F</kbd>
+<kbd>⇧⌘F</kbd>
 
     Markup : <kbd>⌘F</kbd>
 
